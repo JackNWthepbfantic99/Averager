@@ -2,8 +2,8 @@
 *
 * Reads in scores until a negative value is encountered, at which point it determines and prints the average
 *
-* @author <Jack Navin-Weinstein>
-* @version <Thursday,16 October>
+* @author Jack Navin-Weinstein
+* @version Thursday,16 October
 *
 */
 import java.util.Scanner;
